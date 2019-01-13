@@ -21,10 +21,10 @@ https://www.facebook.com/profile.php?id=100011111111111&fref=pb&hc_location=prof
 ```
 
 This gave me the idea of creating a Python script that could isolated these usernames and store them. This still requires
-that I manually click on the reactions link in a group et person's FB feed and then copy those links using the Firefox Add-on.
+that I manually click on the "reactions" link in a group or person's FB feed and then copy those links using the Firefox Add-on.
 
-There might be a way to automate this further. I am also wondering if there is a way to differentiate the different type
-of reactions in this manner (sad, like, angry, ...).
+There might be a way to automate this further. I am also wondering if there is a way to differentiate the different types
+of reactions (sad, like, angry, ...).
 
 For the moment, the data is stored in JSON format for simplicity. I am playing around with ways of saving this to a CSV file,
 which would be more usefull for most users.
