@@ -10,9 +10,7 @@ around with the idea.
 
 I noticed that when I saved all the links after opening up a reactions pop-up window that
 the urls associated with the reactions all had this parameter:
-```
-?fref=pb&hc_location=profile_browser
-```
+`?fref=pb&hc_location=profile_browser`
 
 More interestingly, this common parameter is preceded by the person who "liked" the posts' username or profile id number:
 ```
